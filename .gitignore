@@ -1,0 +1,5 @@
+# Compiled output
+out/
+
+# JOGL extracts its native DLLs here at runtime on some setups
+jogamp_*/
